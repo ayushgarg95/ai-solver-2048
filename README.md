@@ -4,6 +4,7 @@ This program uses expectimax optimization as the basic AI algorithm, along with 
 # To run in Linux:
 
 $ gcc 2048.cpp
+
 $ ./a.out
 
 # To run on Windows:
